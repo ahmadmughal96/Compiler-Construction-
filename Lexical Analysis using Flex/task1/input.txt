@@ -1,0 +1,8 @@
+procedure compute
+begin
+    area = 3.141 * radius * radius
+end
+function main
+begin
+    compute
+end
